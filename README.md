@@ -3,7 +3,7 @@
 __# Problème de régression de séries temporelles__  
 __# modèle:ARIMA, SARIMAX __
 
-L'ensemble de données contenu dans le fichier "Datasource_AllMarket_PourProjection.xlsx" représente le chiffre d'affaire en euro.  
+L'ensemble de données contenu dans le fichier __Datasource_AllMarket_PourProjection.xlsx__ représente le chiffre d'affaire en euro.  
 
 Il s'agit de prédire le chiffre d'affaire pour les 5 prochaines années en utilisant le modèle ARIMA/SARIMAX.  
 Le fichier __Prediction_CA_ARIMA.ipynb__ est le fichier où on a entraîné, testé et évalué le modèle SARIMAX.  
